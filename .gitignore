@@ -1,2 +1,2 @@
-auth.json
+{ token: "TOKEN_HERE" }
 node_modules/
